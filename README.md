@@ -5,6 +5,7 @@ Welcome to the knowledge base of the python usergroup nueremberg.
 **Linklist:**
 * <a href="linklist/getting-started.md">Good tutorials to getting started</a>
 * <a href="linklist/social_media.md">Interesting Social Media Accounts</a>
+* <a href="https://github.com/vinta/awesome-python">A curated list of awesome Python frameworks, libraries, software and resources.</a>
 
 # Social Networks
 You will find us on various networks, feel free to join us  at:
