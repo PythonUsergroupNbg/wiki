@@ -1,4 +1,4 @@
-# Linklist Social Media
+# Interesting Social Media Accounts
 Here you will find a source for interesting social media account about python and developing.
 
 ## twitter
