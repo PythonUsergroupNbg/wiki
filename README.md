@@ -3,8 +3,8 @@ Welcome to the knowledge base of the python usergroup nueremberg.
 
 # Content
 **Linklist:**
-* <a href="linklist/getting-started.md">Good tutorials to getting started</a>
-* <a href="linklist/social_media.md">Interesting Social Media Accounts</a>
+* <a href="https://github.com/PythonUsergroupNbg/wiki/wiki/Python-Getting-Started">Good tutorials to getting started</a>
+* <a href="https://github.com/PythonUsergroupNbg/wiki/wiki/Social-Media-Accounts">Interesting Social Media Accounts</a>
 * <a href="https://github.com/vinta/awesome-python">A curated list of awesome Python frameworks, libraries, software and resources.</a>
 
 # Social Networks
